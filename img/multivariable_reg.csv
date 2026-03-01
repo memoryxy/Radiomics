@@ -1,0 +1,2 @@
+feature_name,Log(OR),lower 95%CI,upper 95%CI,OR,OR lower 95%CI,OR upper 95%CI,p_value
+age,-0.007,-0.013,-0.001,0.993,0.987,0.999,0.043

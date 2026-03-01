@@ -1,0 +1,15 @@
+feature_name,importance
+original_shape_Elongation,8.0
+wavelet_HLH_glszm_LowGrayLevelZoneEmphasis,6.0
+gradient_glcm_Imc2,5.0
+lbp_3D_k_glszm_SmallAreaLowGrayLevelEmphasis,5.0
+gradient_glszm_ZoneEntropy,4.0
+squareroot_glrlm_RunEntropy,4.0
+square_firstorder_Range,3.0
+squareroot_firstorder_Kurtosis,3.0
+exponential_glrlm_ShortRunEmphasis,2.0
+lbp_3D_m1_glrlm_GrayLevelNonUniformityNormalized,2.0
+squareroot_glszm_GrayLevelVariance,2.0
+wavelet_LLH_glszm_LargeAreaHighGrayLevelEmphasis,2.0
+exponential_glrlm_GrayLevelNonUniformity,1.0
+wavelet_LHH_glrlm_LongRunHighGrayLevelEmphasis,1.0

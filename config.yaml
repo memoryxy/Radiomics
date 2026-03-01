@@ -1,0 +1,12 @@
+# ----------------------------------------------------------------------- #
+#                                                                         #
+#                               YMAL文件语法                               #
+#                       http://medai.icu/thread/677                       #
+#                                                                         #
+# ----------------------------------------------------------------------- #
+radio_dir: D:\DATA\US
+task_column: label
+clinic_file: D:\DATA\US/clinic.csv
+sel_model: LightGBM
+font.size: 12
+DISABLE_VIDEO: True
